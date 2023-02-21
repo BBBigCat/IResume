@@ -2,4 +2,4 @@
 
 个人简历模板
 
-![images](https://github.com/BBBigCat/IResume/blob/main/images/demo.jpg)
+![images](https://github.com/BBBigCat/IResume/blob/main/images/image.png)

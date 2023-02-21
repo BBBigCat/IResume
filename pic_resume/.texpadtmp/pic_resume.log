@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.11.4)  15 JAN 2021 15:54
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.11.4)  21 FEB 2023 23:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -655,7 +655,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 83.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 83.
 Package rerunfilecheck Info: File `pic_resume.out' has not changed.
-(rerunfilecheck)             Checksum: 2842237EE72AB7D98B4A4BA7F4775BAC;558.
+(rerunfilecheck)             Checksum: 3DAF1E094A3F88C778A6C4018A056E25;530.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
